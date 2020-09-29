@@ -1,0 +1,18 @@
+https://www.youtube.com/watch?v=0RBDq-QusH0
+
+
+Visual Stdio 2019 community edition
+Sql server
+Sublime Text
+nodejs
+Postman
+wrar342
+vscode
+
+  @*
+<select asp-for="CategoryId"
+class="form-control"
+	asp-items="@(new SelectList(@ViewBag.CategoryList,"CategoryId","CategoryId",null,"-Select-"))">
+</select>
+
+*@
